@@ -1,0 +1,63 @@
+body{
+color:green;
+background:black;
+}
+.content{
+background:gray;
+border:10;
+resize: both;
+overflow: auto;
+}
+.righttab{
+justify-content: center;
+  align-items: center;
+display: flex;
+flex-direction: row;
+}
+.tab{
+background:blue;
+color:white;
+font-size: 30px;
+width:20%;
+height: 200px;
+}
+.tab:hover{
+background:black;
+opacity: 10;
+}
+.tab2{
+background:red;
+color:white;
+font-size: 30px;
+width:20%;
+height: 200px;
+}
+.tab2:hover{
+background:black;
+opacity: 10;
+}
+.tab3{
+background:yellow;
+color:white;
+font-size: 30px;
+width:20%;
+height: 200px;
+}
+.tab3:hover{
+background:black;
+opacity: 10;
+}
+.tab4{
+background:blue;
+color:white;
+font-size: 30px;
+width:20%;
+height: 200px;
+}
+.tab4:hover{
+background:black;
+opacity: 10;
+}
+.h3 {
+  text-align: right;
+}
